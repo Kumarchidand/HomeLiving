@@ -79,9 +79,8 @@ A **final year engineering project** that combines **embedded systems**, **IoT c
 
 ## 📷 Demo Screenshots
 
-> Add images here of your working prototype, LCD messages, and wiring.
-[p1](https://github.com/user-attachments/assets/29bd11fb-0677-4870-a77e-75700797c7e1)
-[p3](https://github.com/user-attachments/assets/c20c5c5f-7ab4-404c-9f57-5f792373782b)
+![Uploading image.png…]()
+
 
 
 ---
